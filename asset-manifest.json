@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Assignment/static/css/main.64768f69.css",
+    "main.js": "/Assignment/static/js/main.bc7f921c.js",
+    "static/js/787.ec704a7a.chunk.js": "/Assignment/static/js/787.ec704a7a.chunk.js",
+    "static/media/tom_brady.png": "/Assignment/static/media/tom_brady.e61ecf7088f204b7c164.png",
+    "index.html": "/Assignment/index.html",
+    "main.64768f69.css.map": "/Assignment/static/css/main.64768f69.css.map",
+    "main.bc7f921c.js.map": "/Assignment/static/js/main.bc7f921c.js.map",
+    "787.ec704a7a.chunk.js.map": "/Assignment/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64768f69.css",
+    "static/js/main.bc7f921c.js"
+  ]
+}
